@@ -13,7 +13,7 @@ header {
   height: 100px; }
 
 .main__nosotros {
-  margin: 2000px;
+  margin: 200px;
   line-height: 30px;
   font-size: medium; }
 
@@ -68,13 +68,5 @@ footer {
   justify-items: center;
   grid-template-columns: 2fr 2fr; }
 
-  /* TABLET */
-  @media (min-width: 541px) and (max-width: 720px) {
-
-  }
-
-  /* CELULAR */
-  @media (min-width: 320px) and (max-width: 540px) {
-    
-  }
-
+/* TABLET */
+/* CELULAR */
